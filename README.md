@@ -1,2 +1,2 @@
-# kovacsnoi.hithub.io
+# kovacsnoi.github.io
 DEmo page.
